@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Aashirthecodder/NewsApp.git/static/css/main.abd64e84.css",
-    "main.js": "/Aashirthecodder/NewsApp.git/static/js/main.c49db6aa.js",
-    "static/js/787.4c026eef.chunk.js": "/Aashirthecodder/NewsApp.git/static/js/787.4c026eef.chunk.js",
-    "static/media/Loading.gif": "/Aashirthecodder/NewsApp.git/static/media/Loading.c1b8565f12c3c976ba01.gif",
-    "index.html": "/Aashirthecodder/NewsApp.git/index.html",
-    "main.abd64e84.css.map": "/Aashirthecodder/NewsApp.git/static/css/main.abd64e84.css.map",
-    "main.c49db6aa.js.map": "/Aashirthecodder/NewsApp.git/static/js/main.c49db6aa.js.map",
-    "787.4c026eef.chunk.js.map": "/Aashirthecodder/NewsApp.git/static/js/787.4c026eef.chunk.js.map"
+    "main.css": "/github.io/NewsApp.git/static/css/main.abd64e84.css",
+    "main.js": "/github.io/NewsApp.git/static/js/main.bdb856ce.js",
+    "static/js/787.4c026eef.chunk.js": "/github.io/NewsApp.git/static/js/787.4c026eef.chunk.js",
+    "static/media/Loading.gif": "/github.io/NewsApp.git/static/media/Loading.c1b8565f12c3c976ba01.gif",
+    "index.html": "/github.io/NewsApp.git/index.html",
+    "main.abd64e84.css.map": "/github.io/NewsApp.git/static/css/main.abd64e84.css.map",
+    "main.bdb856ce.js.map": "/github.io/NewsApp.git/static/js/main.bdb856ce.js.map",
+    "787.4c026eef.chunk.js.map": "/github.io/NewsApp.git/static/js/787.4c026eef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.abd64e84.css",
-    "static/js/main.c49db6aa.js"
+    "static/js/main.bdb856ce.js"
   ]
 }
